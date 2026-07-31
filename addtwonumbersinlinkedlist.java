@@ -1,4 +1,4 @@
-// "static void main" must be defined in a public class.
+
 public class stack {
     int top;
     int size;
